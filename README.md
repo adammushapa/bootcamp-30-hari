@@ -9,3 +9,6 @@ Halo! Saya Adam Mushapa. Repository ini mendokumentasikan perjalanan saya belaja
 
 ## Progress Harian
 - **Hari 1:** Setup lingkungan, terminal, Git & GitHub
+
+## Tentang Saya
+Saya sedang belajar software engineering dengan fokus fullstack web.
