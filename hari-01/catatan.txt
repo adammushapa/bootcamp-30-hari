@@ -1,0 +1,4 @@
+hari 1 aku udah belajar:
+
+1. cara membuat file dengan git bash
+2. cara upload dengan commit ke github
