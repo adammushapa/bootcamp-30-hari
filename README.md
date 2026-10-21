@@ -9,6 +9,7 @@ Halo! Saya Adam Mushapa. Repository ini mendokumentasikan perjalanan saya belaja
 
 ## Progress Harian
 - **Hari 1:** Setup lingkungan, terminal, Git & GitHub
+- **Hari 2:** Branching, merge conflict, dan Pull Request
 
 ## Tentang Saya
 Saya sedang belajar software engineering dengan fokus fullstack web.
