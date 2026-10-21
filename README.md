@@ -12,3 +12,7 @@ Halo! Saya Adam Mushapa. Repository ini mendokumentasikan perjalanan saya belaja
 
 ## Tentang Saya
 Saya sedang belajar software engineering dengan fokus fullstack web.
+
+## Yang Ingin Saya Capai
+- Memahami alur kerja developer profesional
+- Punya 3 proyek portofolio yang live
