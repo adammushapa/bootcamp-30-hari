@@ -11,7 +11,7 @@ Halo! Saya Adam Mushapa. Repository ini mendokumentasikan perjalanan saya belaja
 - **Hari 1:** Setup lingkungan, terminal, Git & GitHub
 - **Hari 2:** Branching, merge conflict, dan Pull Request
 - **Hari 3:** Clone repo, HTML dasar, mulai Proyek 1
-- **Hari 4:** Sinkronisasi github, CSS dasar, background, padding, 
+- **Hari 4:** Sinkronisasi GitHub, CSS dasar, dan box model (padding, margin)
 
 ## Tentang Saya
 Saya sedang belajar software engineering dengan fokus fullstack web.
