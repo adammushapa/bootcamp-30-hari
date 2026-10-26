@@ -29,3 +29,16 @@ function kategoriSaldo(saldo) {
 console.log(kategoriSaldo(15000000));
 console.log(kategoriSaldo(2500000));
 console.log(kategoriSaldo(300000));
+
+const belanja = [15000, 32000, 8500, 21000];
+let total = 0;
+
+for (const harga of belanja) {
+    total += harga;
+}
+
+console.log(`Total belanja: ${total}`);
+console.log(`Jumlah item: ${belanja.length}`);
+
+belanja.push(12000);
+console.log(belanja.length);
