@@ -42,3 +42,14 @@ console.log(`Jumlah item: ${belanja.length}`);
 
 belanja.push(12000);
 console.log(belanja.length);
+
+const transaksi = {
+    id: 1,
+    keterangan: "Beli ATK",
+    jumlah: 75000,
+    lunas: true
+};
+
+console.log(transaksi.keterangan);
+transaksi.jumlah = 80000;
+console.log(transaksi);
