@@ -15,3 +15,17 @@ const totalBayar = (harga, persen) => harga + hitungPajak(harga, persen);
 
 console.log(hitungPajak(200000,10));
 console.log(totalBayar(200000, 10));
+
+function kategoriSaldo(saldo) {
+    if (saldo >= 10000000) {
+        return "Besar";
+    } else if (saldo >= 1000000) {
+        return "Sedang";
+    } else {
+        return "Kecil";
+    }
+}
+
+console.log(kategoriSaldo(15000000));
+console.log(kategoriSaldo(2500000));
+console.log(kategoriSaldo(300000));
