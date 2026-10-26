@@ -13,6 +13,7 @@ Halo! Saya Adam Mushapa. Repository ini mendokumentasikan perjalanan saya belaja
 - **Hari 3:** Clone repo, HTML dasar, mulai Proyek 1
 - **Hari 4:** Sinkronisasi GitHub, CSS dasar, dan box model (padding, margin)
 - **Hari 5:** Belajar flexbox
+- **Hari 6:** Belajar javascript (object, variable, const, let, latihan kalkulator mini, latihan debugging dan memperbaikinya)
 
 ## Tentang Saya
 Saya sedang belajar software engineering dengan fokus fullstack web.
